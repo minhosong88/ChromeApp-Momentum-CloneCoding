@@ -16,14 +16,13 @@ A simple and elegant web application that displays a personalized greeting, cloc
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/minhosong88/Momentum-App.git
-  ```
+   ```
 2. Open the project folder:
-  ```bash
-  cd Momentum-App
-  ```
+   ```bash
+   cd Momentum-App
+   ```
 3. Open index.html in your preferred web browser.
 
 ## Usage
